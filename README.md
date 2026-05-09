@@ -18,7 +18,7 @@ Egyedi, látványos kitiltási rendszer Minecraft (Spigot/Paper) szerverekhez, i
 
 | Parancs | Leírás | Példa |
 | --- | --- | --- |
-| `/ban` | Játékos kitiltása | `/ban Amon202394 Csalás_miatt 1h` |
+| `/ban` | Játékos kitiltása | `/ban Amon202394 "indok" {idő}` |
 | `/unban` | Kitiltás feloldása | `/unban Amon202394` |
 
 *Megjegyzés: Az indoknál a szóközök helyett használj alulvonást, vagy a rendszer összefűzi a szavakat az utolsó (idő) paraméterig.*
